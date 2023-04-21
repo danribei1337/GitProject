@@ -1,3 +1,0 @@
-Hello World! My name is Daniel
-New line test
-Branch test
