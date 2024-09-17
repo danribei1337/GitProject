@@ -5,7 +5,7 @@ This repository contains all the coding challenges and exercises I completed dur
 
 ## 📚 Challenges Information
 - **Platform:** Udemy
-- **Focus:** Python basics, advanced topics, data structures, algorithms, and real-world projects.
+- **Focus:** Data engineer related topics, data structures, algorithms, and real-world projects.
 
 ## 🗂 Repository Structure
 Each challenge or exercise is organized inside Udemy folder. Inside the folder, you will be able to find:
