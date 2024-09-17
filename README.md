@@ -21,5 +21,5 @@ Each challenge or exercise is organized inside Udemy folder. Inside the folder, 
 - Python (`.py` files)
 - SQL (`.sql` files)
 - R (`.R` files)
-- yml & some data files(`.yml` `.csv` `.json` `.xls` files
+- yml & some data files(`.yml` `.csv` `.json` `.xls` files)
 - A brief description of the challenge within the file or any relevant comments or explanations.
